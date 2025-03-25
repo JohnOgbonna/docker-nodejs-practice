@@ -177,3 +177,4 @@ function ItemDisplay({ item, onItemUpdate, onItemRemoval }) {
 }
 
 ReactDOM.render(<App />, document.getElementById('root'));
+
